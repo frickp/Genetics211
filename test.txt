@@ -2,3 +2,12 @@
 #It looked like Git recognized it, but not online yet...
 #Git is not recognizing any changes...
 #Is this still recognized after I moved the local repository location?
+
+#It works! To commit, use
+	git commit -am "This is what the commit message should be"
+
+#To make a repository from a local folder, do 
+	1) git init
+	2) git 
+	3)
+

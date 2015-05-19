@@ -1,0 +1,13 @@
+To commit a changed file from the command line, use:
+
+        git commit -am "This is what the commit message should be"
+
+The "a" is to add the file to be staged. The "m" is to add a commit message
+
+
+#To make a repository from a local folder, do the following:
+        1) git init
+        2) git commit -am "Commit message"
+        3) git remote add origin https://github.com/frickp/repoName
+        4) git push -u origin master
+
